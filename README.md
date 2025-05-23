@@ -2,7 +2,7 @@
 
 A stunning 3D interactive globe that visualizes real-time earthquake data from the USGS (United States Geological Survey). Built with React, Three.js, and react-globe.gl for an immersive earthquake monitoring experience.
 
-![Visual Globe Screenshot](https://via.placeholder.com/800x400/1a1a2e/ffffff?text=Visual+Globe+Earthquake+Visualization)
+![Visual Globe Demo GIF](media/GlobeDemo.gif)
 
 ## ✨ Features
 
@@ -236,13 +236,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Three.js**: For powerful 3D graphics capabilities
 - **Vite**: For fast development experience
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/yourusername/visual-globe/issues) page
-2. Create a new issue with detailed information
-3. Include browser version and error messages
-
 ## 🔄 Updates
 
 ### Recent Changes
@@ -261,7 +254,3 @@ If you encounter any issues or have questions:
 - 🔲 Multi-language support
 
 ---
-
-**Built with ❤️ for earthquake awareness and education**
-
-*Stay informed, stay prepared* 🌍
