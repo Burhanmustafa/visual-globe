@@ -118,3 +118,6 @@ temp/
 # Local development
 proxy.log
 *.local
+
+# Large media files
+media/GlobeDemoFull.gif
