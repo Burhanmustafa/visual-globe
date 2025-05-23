@@ -7,7 +7,7 @@ A stunning 3D interactive globe that visualizes real-time earthquake data from t
 <p align="center">
   <img src="media/GlobeDemo.gif" width="700" />
 </p>
-![Visual Globe](media/Screenshot%202025-05-23%20at%203.28.20%20AM.png)
+![Visual Globe Screenshot](media/Screenshot%202025-05-23%20at%203.28.20%20AM.png)
 ![Visual Globe Demo GIF](media/GlobeDemo.gif)
 
 
