@@ -9,7 +9,7 @@ A stunning 3D interactive globe that visualizes real-time earthquake data from t
     <img src="https://img.youtube.com/vi/MlvU9fGwL4U/hqdefault.jpg" width="700" />
   </a>
 </p>
------------------------------------------------WATCH THE DEMO ON YOUTUBE!-----------------------------------------------
+PLEASE WATCH THE DEMO ON YOUTUBE!
 
 <h2>📸 Screenshot</h2>
 <p align="center">
