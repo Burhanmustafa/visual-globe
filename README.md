@@ -12,6 +12,10 @@ A stunning 3D interactive globe that visualizes real-time earthquake data from t
   <img src="media/GlobeLight.png" width="700" />
 </p>
 
+<p align="center">
+  <img src="media/GlobeDark.png" width="700" />
+</p>
+
 
 ## ✨ Features
 
