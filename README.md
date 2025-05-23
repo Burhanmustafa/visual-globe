@@ -2,10 +2,10 @@
 
 A stunning 3D interactive globe that visualizes real-time earthquake data from the USGS (United States Geological Survey). Built with React, Three.js, and react-globe.gl for an immersive earthquake monitoring experience.
 
-<h2>🌐 Demo</h2>
-<p align="center">
-  <img src="media/GlobeDemo.gif" width="700" />
-</p>
+## 🌐 Demo Video
+
+[![Watch the demo on YouTube!](https://img.youtube.com/vi/MlvU9fGwL4U/hqdefault.jpg)](https://www.youtube.com/watch?v=MlvU9fGwL4U)
+
 
 <h2>📸 Screenshot</h2>
 <p align="center">
